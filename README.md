@@ -72,11 +72,11 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
 |----|-----|---------|
 |data 21 marzo 2022, 15:00-17:00|Lab. 2|Computer, pensiero computazionale e strutture dati|
 |data 22 marzo 2022, 15:00-17:00|Lab. 2|Algoritmi e computabilità|
-|data 23 marzo 2022, 17:00-19:00|Lab. 2|Linguaggi di programmazione|
+|data 23 marzo 2022, 17:00-19:00|Aula B|Linguaggi di programmazione|
 |data 29 marzo 2022, 15:00-17:00|Lab. 2|Cosa succede quando si clicca un un link: Il World Wide Web|
-|data 30 marzo 2022, 17:00-19:00|Lab. 2|Cosa succede quando si clicca un un link: I protocolli di comunicazione|
+|data 30 marzo 2022, 17:00-19:00|Aula B|Cosa succede quando si clicca un un link: I protocolli di comunicazione|
 |data 5 aprile 2022, 15:00-17:00|Lab. 2|Cosa succede quando si clicca un un link: Internet|
-|data 6 aprile 2022, 17:00-19:00|Lab. 2|Cosa succede quando si clicca un un link: Trasferire informazioni su Internet|
-|data 13 aprile 2022, 17:00-19:00|Lab. 2|Cosa succede quando si clicca un un link: Le pagine web|
-|data 20 aprile 2022, 17:00-19:00|Lab. 2|Le tecnologie informatiche nelle scienze umane|
-|data 27 aprile 2022, 17:00-19:00|Lab. 2|Wrap-up|
+|data 6 aprile 2022, 17:00-19:00|Aula B|Cosa succede quando si clicca un un link: Trasferire informazioni su Internet|
+|data 13 aprile 2022, 17:00-19:00|Aula B|Cosa succede quando si clicca un un link: Le pagine web|
+|data 20 aprile 2022, 17:00-19:00|Aula B|Le tecnologie informatiche nelle scienze umane|
+|data 27 aprile 2022, 17:00-19:00|Aula B|Wrap-up|
