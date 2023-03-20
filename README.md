@@ -5,13 +5,6 @@ Questo spazio contiene link e riferimenti a tutto il materiale relativo al corso
 
 ## Anno accademico 2022/2023
 
-### Indice
-
-1. [Materiale](#materiale)
-2. [Calendario](#calendario)
-
-### Materiale
-
 Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale](https://virtuale.unibo.it) dell'Università di Bologna. Inoltre, i vari capitoli sono anche allegati qui in PDF per facilitarne la stampa, se necessario.
 
 1. Introduzione al corso [Slide](https://docs.google.com/presentation/d/1RvB63Mshgu-x72R53kPJqAER6pFKg1p7vaLR8NB8Ock/edit?usp=sharing)
