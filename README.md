@@ -59,11 +59,11 @@ Il libro del corso è interamente a disposizione sulla piattaforma di [Virtuale]
    <hr />
 
 10. Le tecnologie informatiche nelle scienze umane [Slide lezione](https://docs.google.com/presentation/d/1SoQ5bKy_1fGaX-g02ARVbZAd89djaAsqHdkmvIpdL18/edit?usp=sharing)
-      *  data 18 aprile 2022, 15:00-17:00
+      *  data 18 aprile 2023, 15:00-17:00
    * luogo: Laboratorio 2
       * capitolo:  [PDF](https://basic-inf.github.io/2022-2023/chapters/09.pdf)
    <hr />
 
 11. Wrap-up [Slide lezione](https://docs.google.com/presentation/d/1II-RmcIqYFzn-I7BKDzLtdB5Ev8GOiU2-Ih0dEQfgH4/edit?usp=sharing)
    * luogo: Aula B
-   *  data 19 aprile 2021, 17:00-19:00
+   *  data 19 aprile 2023, 17:00-19:00
